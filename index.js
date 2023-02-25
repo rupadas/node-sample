@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/apps', (req, res) => {
-  res.send('Node 8 Running! New version 3.0.0');
+  res.send('Node 8 Running! New version 3.0.1');
 });
 
 const port = process.env.PORT || 3037;
