@@ -20,3 +20,9 @@ jobs:
         run: docker tag sample-node-app:latest rupadas/sample-node-app:latest
       - name: Push Docker image
         run: docker push rupadas/sample-node-app:latest
+      - name: ArgoCD sync
+        uses: argoproj-labs/argocd-action@v2
+        with:
+          server: ${{ secrets.ARGOCD_SERVER_URL }}
+          token: ${{ secrets.ARGOCD_TOKEN }}
+          application: argocd
