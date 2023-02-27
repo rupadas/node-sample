@@ -1,0 +1,222 @@
+[2023-02-27 11:32:15Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-02-27 11:32:15Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:15Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:15Z INFO HostContext] Well known config file 'Credentials': '/Users/rupadas/node-sample/actions-runner/.credentials'
+[2023-02-27 11:32:15Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:15Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:15Z INFO HostContext] Well known config file 'Runner': '/Users/rupadas/node-sample/actions-runner/.runner'
+[2023-02-27 11:32:15Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2023-02-27 11:32:15Z INFO Listener] RuntimeInformation: Darwin 22.2.0 Darwin Kernel Version 22.2.0: Fri Nov 11 02:06:26 PST 2022; root:xnu-8792.61.2~4/RELEASE_ARM64_T8112.
+[2023-02-27 11:32:16Z INFO Listener] Version: 2.301.1
+[2023-02-27 11:32:16Z INFO Listener] Commit: f764f5dfa75a74600ef491599be8d4fea33ccdaf
+[2023-02-27 11:32:16Z INFO Listener] Culture: 
+[2023-02-27 11:32:16Z INFO Listener] UI Culture: 
+[2023-02-27 11:32:16Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:16Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:16Z INFO Listener] Validating directory permissions for: '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:16Z INFO CommandLineParser] Parse
+[2023-02-27 11:32:16Z INFO CommandLineParser] Parsing 5 args
+[2023-02-27 11:32:16Z INFO CommandLineParser] parsing argument
+[2023-02-27 11:32:16Z INFO CommandLineParser] HasArgs: False
+[2023-02-27 11:32:16Z INFO CommandLineParser] Adding Command: configure
+[2023-02-27 11:32:16Z INFO CommandLineParser] parsing argument
+[2023-02-27 11:32:16Z INFO CommandLineParser] HasArgs: True
+[2023-02-27 11:32:16Z INFO CommandLineParser] arg: url
+[2023-02-27 11:32:16Z INFO CommandLineParser] parsing argument
+[2023-02-27 11:32:16Z INFO CommandLineParser] HasArgs: True
+[2023-02-27 11:32:16Z INFO CommandLineParser] Adding option 'url': 'https://github.com/rupadas/node-sample'
+[2023-02-27 11:32:16Z INFO CommandLineParser] parsing argument
+[2023-02-27 11:32:16Z INFO CommandLineParser] HasArgs: True
+[2023-02-27 11:32:16Z INFO CommandLineParser] arg: token
+[2023-02-27 11:32:16Z INFO CommandLineParser] parsing argument
+[2023-02-27 11:32:16Z INFO CommandLineParser] HasArgs: True
+[2023-02-27 11:32:16Z INFO CommandLineParser] Adding option 'token': '***'
+[2023-02-27 11:32:16Z INFO Listener] Arguments parsed
+[2023-02-27 11:32:17Z INFO Runner] ExecuteCommand
+[2023-02-27 11:32:17Z INFO ConfigurationStore] currentAssemblyLocation: /Users/rupadas/node-sample/actions-runner/bin/Runner.Listener.dll
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] binPath: /Users/rupadas/node-sample/actions-runner/bin
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] RootFolder: /Users/rupadas/node-sample/actions-runner
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:17Z INFO HostContext] Well known config file 'Runner': '/Users/rupadas/node-sample/actions-runner/.runner'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] ConfigFilePath: /Users/rupadas/node-sample/actions-runner/.runner
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:17Z INFO HostContext] Well known config file 'Credentials': '/Users/rupadas/node-sample/actions-runner/.credentials'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] CredFilePath: /Users/rupadas/node-sample/actions-runner/.credentials
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:17Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/rupadas/node-sample/actions-runner/.credentials_migrated'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] MigratedCredFilePath: /Users/rupadas/node-sample/actions-runner/.credentials_migrated
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:17Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:17Z INFO HostContext] Well known config file 'Service': '/Users/rupadas/node-sample/actions-runner/.service'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/rupadas/node-sample/actions-runner/.service
+[2023-02-27 11:32:17Z INFO CommandSettings] Flag 'help': 'False'
+[2023-02-27 11:32:17Z INFO CommandSettings] Flag 'version': 'False'
+[2023-02-27 11:32:17Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-02-27 11:32:17Z INFO CommandSettings] Flag 'check': 'False'
+[2023-02-27 11:32:17Z INFO CommandSettings] Command 'configure': 'True'
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE: |                       
+[2023-02-27 11:32:17Z INFO Terminal] WRITE: Self-hosted runner registration
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE:                         |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: |                                                                              |
+[2023-02-27 11:32:17Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2023-02-27 11:32:17Z INFO ConfigurationManager] ConfigureAsync
+[2023-02-27 11:32:17Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2023-02-27 11:32:17Z INFO ConfigurationStore] IsConfigured()
+[2023-02-27 11:32:17Z INFO ConfigurationStore] IsConfigured: False
+[2023-02-27 11:32:17Z INFO ConfigurationManager] Is configured: False
+[2023-02-27 11:32:17Z INFO CommandSettings] Arg 'url': 'https://github.com/rupadas/node-sample'
+[2023-02-27 11:32:17Z INFO CommandSettings] Remove url from Arg dictionary.
+[2023-02-27 11:32:17Z INFO CommandSettings] Arg 'token': '***'
+[2023-02-27 11:32:17Z INFO CommandSettings] Remove token from Arg dictionary.
+[2023-02-27 11:32:25Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (F65F:058B:1082A2:130ED5:63FC94C7)
+[2023-02-27 11:32:25Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2023-02-27 11:32:25Z INFO RunnerServer] EstablishVssConnection
+[2023-02-27 11:32:25Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-02-27 11:32:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:32:26Z INFO RunnerServer] EstablishVssConnection
+[2023-02-27 11:32:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-27 11:32:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:32:26Z INFO RunnerServer] EstablishVssConnection
+[2023-02-27 11:32:26Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-27 11:32:26Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:32:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:32:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:32:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:32:29Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:32:29Z INFO ConfigurationManager] Test Connection complete.
+[2023-02-27 11:32:29Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:29Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:29Z INFO HostContext] Well known config file 'RSACredentials': '/Users/rupadas/node-sample/actions-runner/.credentials_rsaparams'
+[2023-02-27 11:32:29Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2023-02-27 11:32:29Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/rupadas/node-sample/actions-runner/.credentials_rsaparams
+[2023-02-27 11:32:29Z INFO RSAFileKeyManager] Which: 'chmod'
+[2023-02-27 11:32:29Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2023-02-27 11:32:29Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:32:29Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper] Starting process:
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/rupadas/node-sample/actions-runner/.credentials_rsaparams'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper] Process started with process id 29437, waiting for process exit.
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-02-27 11:32:30Z INFO ProcessInvokerWrapper] Finished process 29437 with exit code 0, and elapsed time 00:00:00.3589063.
+[2023-02-27 11:32:30Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/rupadas/node-sample/actions-runner/.credentials_rsaparams
+[2023-02-27 11:32:30Z INFO CommandSettings] Arg 'runnergroup': ''
+[2023-02-27 11:32:30Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-27 11:32:30Z INFO PromptManager] ReadValue
+[2023-02-27 11:32:30Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2023-02-27 11:32:30Z INFO Terminal] WRITE: [press Enter for Default] 
+[2023-02-27 11:32:30Z INFO Terminal] READ LINE
+[2023-02-27 11:32:46Z INFO Terminal] Read value: ''
+[2023-02-27 11:32:46Z INFO PromptManager] Falling back to the default: 'Default'
+[2023-02-27 11:32:46Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:32:46Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2023-02-27 11:32:46Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-02-27 11:32:46Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-02-27 11:32:46Z INFO CommandSettings] Arg 'name': ''
+[2023-02-27 11:32:46Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-27 11:32:46Z INFO PromptManager] ReadValue
+[2023-02-27 11:32:46Z INFO Terminal] WRITE: Enter the name of runner: 
+[2023-02-27 11:32:46Z INFO Terminal] WRITE: [press Enter for Rupas-MacBook-Air] 
+[2023-02-27 11:32:46Z INFO Terminal] READ LINE
+[2023-02-27 11:32:55Z INFO Terminal] Read value: ''
+[2023-02-27 11:32:55Z INFO PromptManager] Falling back to the default: 'Rupas-MacBook-Air'
+[2023-02-27 11:32:55Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:32:55Z INFO CommandSettings] Arg 'labels': ''
+[2023-02-27 11:32:55Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-27 11:32:55Z INFO PromptManager] ReadValue
+[2023-02-27 11:32:55Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2023-02-27 11:32:55Z INFO Terminal] WRITE: [press Enter to skip] 
+[2023-02-27 11:32:55Z INFO Terminal] READ LINE
+[2023-02-27 11:33:18Z INFO Terminal] Read value: ''
+[2023-02-27 11:33:18Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:33:19Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-02-27 11:33:20Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2023-02-27 11:33:20Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2023-02-27 11:33:20Z INFO ConfigurationStore] Saving OAuth credential @ /Users/rupadas/node-sample/actions-runner/.credentials
+[2023-02-27 11:33:20Z INFO ConfigurationStore] Credentials Saved.
+[2023-02-27 11:33:20Z INFO ConfigurationStore] HasCredentials()
+[2023-02-27 11:33:20Z INFO ConfigurationStore] stored True
+[2023-02-27 11:33:20Z INFO CredentialManager] GetCredentialProvider
+[2023-02-27 11:33:20Z INFO CredentialManager] Creating type OAuth
+[2023-02-27 11:33:20Z INFO CredentialManager] Creating credential type: OAuth
+[2023-02-27 11:33:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rupadas/node-sample/actions-runner/.credentials_rsaparams
+[2023-02-27 11:33:20Z INFO RunnerServer] EstablishVssConnection
+[2023-02-27 11:33:20Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-02-27 11:33:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:33:20Z INFO RunnerServer] EstablishVssConnection
+[2023-02-27 11:33:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-27 11:33:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:33:20Z INFO RunnerServer] EstablishVssConnection
+[2023-02-27 11:33:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-02-27 11:33:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:33:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:33:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:33:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:33:21Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:33:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:33:21Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-02-27 11:33:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-02-27 11:33:22Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rupadas/node-sample/actions-runner/.credentials_rsaparams
+[2023-02-27 11:33:22Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/rupadas/node-sample/actions-runner/.credentials_rsaparams
+[2023-02-27 11:33:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-02-27 11:33:23Z INFO CommandSettings] Arg 'work': ''
+[2023-02-27 11:33:23Z INFO CommandSettings] Flag 'unattended': 'False'
+[2023-02-27 11:33:23Z INFO PromptManager] ReadValue
+[2023-02-27 11:33:23Z INFO Terminal] WRITE: Enter name of work folder: 
+[2023-02-27 11:33:23Z INFO Terminal] WRITE: [press Enter for _work] 
+[2023-02-27 11:33:23Z INFO Terminal] READ LINE
+[2023-02-27 11:33:26Z INFO Terminal] Read value: ''
+[2023-02-27 11:33:26Z INFO PromptManager] Falling back to the default: '_work'
+[2023-02-27 11:33:26Z INFO ConfigurationStore] Saving runner settings.
+[2023-02-27 11:33:26Z INFO ConfigurationStore] Settings Saved.
+[2023-02-27 11:33:26Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:33:26Z INFO Terminal] WRITE LINE: 
+[2023-02-27 11:33:26Z INFO OsxServiceControlManager] Service name 'actions.runner.rupadas-node-sample.Rupas-MacBook-Air' display name 'GitHub Actions Runner (rupadas-node-sample.Rupas-MacBook-Air)' will be used for service configuration.
+[2023-02-27 11:33:26Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:33:26Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:33:26Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:33:26Z INFO HostContext] Well known directory 'Bin': '/Users/rupadas/node-sample/actions-runner/bin'
+[2023-02-27 11:33:26Z INFO HostContext] Well known directory 'Root': '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:33:26Z INFO UnixUtil] Which: 'chmod'
+[2023-02-27 11:33:26Z INFO UnixUtil] Location: '/bin/chmod'
+[2023-02-27 11:33:26Z INFO UnixUtil] Running /bin/chmod 755 "/Users/rupadas/node-sample/actions-runner/svc.sh"
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper] Starting process:
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/rupadas/node-sample/actions-runner/svc.sh"'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Working directory: '/Users/rupadas/node-sample/actions-runner'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper] Process started with process id 29565, waiting for process exit.
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-02-27 11:33:26Z INFO ProcessInvokerWrapper] Finished process 29565 with exit code 0, and elapsed time 00:00:00.0405298.
+[2023-02-27 11:33:26Z INFO Listener] Runner execution has finished with return code 0

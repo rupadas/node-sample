@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "Rupas-MacBook-Air",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/iNbVLMKwQeaApndkhIki2x1kCI86219li5XsYpfGb9a4ZJcfcW",
+  "gitHubUrl": "https://github.com/rupadas/node-sample",
+  "workFolder": "_work"
+}
